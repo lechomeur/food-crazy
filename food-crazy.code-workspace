@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - fildelo_mobile",
+			"uri": "ssh://fildelo_mobile/home/omadi/public_html/fildelo_mobile"
+		}
+	],
+	"settings": {}
+}
